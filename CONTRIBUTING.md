@@ -38,7 +38,7 @@ You'll need a [GitHub account](https://github.com/join)!
 (or manually edit the readme file in github and create a pull request)
 
 - Access the awesome list's GitHub page. For example: [https://github.com/tensorflowjs-dev/awesome-tfjs-posts](https://github.com/tensorflowjs-dev/awesome-tfjs-posts)
-- Click on the `README.md` file:
+- Click on the `README.md` file.
 - Now click on the edit icon.
 - You can start editing the text of the file in the in-browser editor. Make sure you follow the guidelines above. You can use GitHub Flavored Markdown.
 - Say why you're proposing the changes, and then click on "Propose file change".
