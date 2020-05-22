@@ -15,6 +15,7 @@ Ensure your pull request adheres to the following guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
 - End all descriptions with a full stop/period.
+- Add **back to top** after every section ends if you create a new section.
 - Check your spelling and grammar manually or use some tools like [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker), [Grammarly](https://www.grammarly.com/).
 - The pull request should include a link to the post/blog/repository and why it should be included.
 - Links should be TensorFlow.js related.
