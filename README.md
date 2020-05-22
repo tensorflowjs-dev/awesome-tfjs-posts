@@ -4,7 +4,7 @@
 
 A curated list of latest posts, blogs, experiments, libraries, models, projects and repositories related to [TensorFlow Js](https://www.tensorflow.org/js).
 
-## What is TensorFlow.js?
+## About TensorFlow.js
 
 TensorFlow.js is an open-source hardware-accelerated JavaScript library for training and deploying machine learning models, and use ML directly in the browser or in Node.js. More info [here](https://www.tensorflow.org/js).
 
