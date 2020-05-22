@@ -1,6 +1,6 @@
-# Awesome TensorFlow.js
+# TensorFlow.js
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)&nbsp;![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 A curated list of latest posts, blogs, experiments, libraries, models, projects and repositories related to [TensorFlow Js](https://www.tensorflow.org/js).
 

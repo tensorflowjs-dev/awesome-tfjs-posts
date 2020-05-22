@@ -15,6 +15,7 @@ Ensure your pull request adheres to the following guidelines:
 - New categories or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
 - End all descriptions with a full stop/period.
+- Add **back to top** after every section ends if you create a new section.
 - Check your spelling and grammar manually or use some tools like [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker), [Grammarly](https://www.grammarly.com/).
 - The pull request should include a link to the post/blog/repository and why it should be included.
 - Links should be TensorFlow.js related.
@@ -38,7 +39,7 @@ You'll need a [GitHub account](https://github.com/join)!
 (or manually edit the readme file in github and create a pull request)
 
 - Access the awesome list's GitHub page. For example: [https://github.com/tensorflowjs-dev/awesome-tfjs-posts](https://github.com/tensorflowjs-dev/awesome-tfjs-posts)
-- Click on the `README.md` file:
+- Click on the `README.md` file.
 - Now click on the edit icon.
 - You can start editing the text of the file in the in-browser editor. Make sure you follow the guidelines above. You can use GitHub Flavored Markdown.
 - Say why you're proposing the changes, and then click on "Propose file change".
